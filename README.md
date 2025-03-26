@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A computer science student from Pakistan</h3>
+<h3 align="center">A 2nd semester computer science student at IBA</h3>
 
 
 <h3 align="left">Connect with me:</h3>
