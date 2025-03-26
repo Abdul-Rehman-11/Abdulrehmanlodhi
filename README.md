@@ -3,7 +3,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **abdulrehmanlodhi94@gmail.com**
+<p><b>📫 How to reach me:</b> <a href="mailto:abdulrehmanlodhi94@gmail.com">abdulrehmanlodhi94@gmail.com</a></p>
 <p align="left">
 </p>
 
